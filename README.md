@@ -16,7 +16,7 @@
 - 🔭 I am currently working on some computer vision projects.
 - 🌱 I'm currenly learning DevOps and Competitive Programming.
 - 👯 I’m looking to collaborate on any python and javascript related project
-- 💬 Ask me about anything here! I'm always happy to help.
+- 💬 Ask me about anything [here](https://github.com/rahul4732saini/rahul4732saini/issues/1)! I'm always happy to help.
 - 📫 Reach me out here: [rahul4732saini@gmail.com](https://mail.google.com/mail/?view=cm&to=rahul4732siani@gmail.com)
 - 😄 Pronouns: he/his/him
 - ⚡ Fun Fact: I would tell you a joke about UDP, but you might not get it.
@@ -40,10 +40,8 @@
 <h3 align=center>My Report Card</h3>
 
 <div align=center>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul4732saini&theme=dark&hide_border=false">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rahul4732saini&theme=dark&show_icons=true&hide_border=false&count_private=false">
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul4732saini&theme=dark&hide_border=false"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=rahul4732saini&theme=dark&show_icons=true&hide_border=false&count_private=false"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul4732saini&theme=dark&show_icons=true&hide_border=false&layout=compact">
 
 ---
