@@ -65,6 +65,6 @@
 
 ---
 
-<img src="assets/PNG/quote.png" width=700>
+<img src="assets/PNG/quote.png" width=500>
 
 </div>
