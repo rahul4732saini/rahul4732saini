@@ -50,6 +50,7 @@
 
 <img src="assets/PNG/rust.png" width=50>
 <img src="assets/PNG/python.png" width=50>
+<img src="assets/PNG/kotlin.png" width=50>
 <img src="assets/PNG/js.png" width=50>
 <img src="assets/PNG/cpp.png" width=50> 
 <img src="assets/PNG/c.png" width=50>
