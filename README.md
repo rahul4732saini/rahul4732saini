@@ -13,7 +13,7 @@
 
 <h3>👨‍💻 About Me:</h3>
 
-- 🔭 I am currently working on some computer vision projects.
+- 🔭 I am currently working on a few computer vision projects.
 - 🌱 I'm currenly learning DevOps and Competitive Programming.
 - 👯 I’m looking to collaborate on any python and javascript related project
 - 💬 Ask me about anything [here](https://github.com/rahul4732saini/rahul4732saini/issues/1)! I'm always happy to help.
