@@ -54,6 +54,7 @@
 <img src="assets/PNG/js.png" width=50>
 <img src="assets/PNG/cpp.png" width=50> 
 <img src="assets/PNG/c.png" width=50>
+<img src="assets/PNG/ts.png" width=50>
 
 <img src="assets/PNG/git.png" width=50>
 <img src="assets/PNG/github.png" width=50>
