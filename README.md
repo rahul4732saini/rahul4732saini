@@ -37,7 +37,7 @@
 
 ---
 
-<h3 align=center>My Report Card</h3>
+<h3 align=center>My GitHub Statistics</h3>
 
 <div align=center>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul4732saini&theme=dark&hide_border=false"><br>
