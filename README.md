@@ -40,7 +40,6 @@
 <h3 align=center>My GitHub Statistics</h3>
 
 <div align=center>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul4732saini&theme=dark&hide_border=false"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=rahul4732saini&theme=dark&show_icons=true&hide_border=false&count_private=false"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul4732saini&theme=dark&show_icons=true&hide_border=false&layout=compact">
 
