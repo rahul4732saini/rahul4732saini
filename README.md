@@ -25,11 +25,9 @@
 
 <h3 align=center>Catch me out here</h3>
 <div align=center>
-<a href="https://stackoverflow.com/users/24300304/rahul4732saini"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-<a href="https://www.x.com/rahulsaini4732"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/rahul-saini-9191a5286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
 <a href="https://leetcode.com/u/rahulsaini4732/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+
 <a href="https://www.hackerrank.com/profile/rahul4732saini"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 <a href="https://www.codewars.com/users/rahul4732saini"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
 
@@ -49,11 +47,9 @@
 
 <img src="assets/PNG/rust.png" width=50>
 <img src="assets/PNG/python.png" width=50>
-<img src="assets/PNG/kotlin.png" width=50>
 <img src="assets/PNG/js.png" width=50>
-<img src="assets/PNG/cpp.png" width=50> 
+<img src="assets/PNG/cpp.png" width=50>
 <img src="assets/PNG/c.png" width=50>
-<img src="assets/PNG/ts.png" width=50>
 
 <img src="assets/PNG/git.png" width=50>
 <img src="assets/PNG/github.png" width=50>
