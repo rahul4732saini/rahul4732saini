@@ -13,12 +13,12 @@
 
 <h3>👨‍💻 About Me:</h3>
 
-- 🔭 I am currently working on a few computer vision projects.
-- 🌱 I'm currenly learning DevOps and Competitive Programming.
-- 👯 I’m looking to collaborate on any python and javascript related project
+- 🔭 I am currently working on my own x86-based 32-bit Operating System.
+- 🌱 I'm currenly learning x86 Assembly and low-level Computer Architecture.
+- 👯 I’m looking to collaborate on any python or C related project.
 - 💬 Ask me about anything [here](https://github.com/rahul4732saini/rahul4732saini/issues/1)! I'm always happy to help.
-- 📫 Reach me out here: [rahul4732saini@gmail.com](https://mail.google.com/mail/?view=cm&to=rahul4732siani@gmail.com)
-- 😄 Pronouns: he/his/him
+- 📫 Reach me at: [rahul4732saini@gmail.com](https://mail.google.com/mail/?view=cm&to=rahul4732siani@gmail.com)
+- 😄 Pronouns: he/him
 - ⚡ Fun Fact: I would tell you a joke about UDP, but you might not get it.
 
 ---
