@@ -43,19 +43,15 @@
 
 ---
 
-<h3>Langauges and Tools</h3>
+<h3>Languages and Tools</h3>
 
+<img src="assets/PNG/c.png" width=50>
+<img src="assets/PNG/cpp.png" width=50>
 <img src="assets/PNG/rust.png" width=50>
 <img src="assets/PNG/python.png" width=50>
-<img src="assets/PNG/js.png" width=50>
-<img src="assets/PNG/cpp.png" width=50>
-<img src="assets/PNG/c.png" width=50>
-
 <img src="assets/PNG/git.png" width=50>
 <img src="assets/PNG/github.png" width=50>
-<img src="assets/PNG/jupyter.png" width=50>
 <img src="assets/PNG/docker.png" width=50>
-
 <img src="assets/PNG/arch.png" width=50>
 <img src="assets/PNG/debian.png" width=50>
 <img src="assets/PNG/ubuntu.png" width=50>
