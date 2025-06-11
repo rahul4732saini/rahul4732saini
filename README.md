@@ -2,14 +2,10 @@
 
 <h1 align=center>Hello World👋, I'm Rahul!</h1>
 
-<img src="assets/WEBP/header.webp">
-
 <div align=center>
 <img src="https://komarev.com/ghpvc/?username=rahul4732saini">
 <img src="https://img.shields.io/github/followers/rahul4732saini?style=social">
 </div>
-
----
 
 <h3>👨‍💻 About Me:</h3>
 
@@ -27,7 +23,6 @@
 <div align=center>
 <a href="https://www.linkedin.com/in/rahul-saini-9191a5286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://leetcode.com/u/rahulsaini4732/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-
 <a href="https://www.hackerrank.com/profile/rahul4732saini"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 <a href="https://www.codewars.com/users/rahul4732saini"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
 
