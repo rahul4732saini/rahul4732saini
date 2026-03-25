@@ -1,5 +1,3 @@
-<div align=center><img src="assets/GIF/coding.gif" width=150></div>
-
 <h1 align=center>Hello World👋, I'm Rahul!</h1>
 
 <div align=center>
